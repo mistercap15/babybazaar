@@ -15,7 +15,7 @@ const Testimonial = () => {
       <div className="testimonial-section-bottom">
         <img clasname="profile" src={ProfilePic} alt="" />
         <p>
-        I have been shopping at this baby clothing store for several months now, and I couldn't be happier with the quality and selection of their clothes. 
+        I've been shopping at this baby store for months and I'm so impressed with the quality of their clothes! They're not only cute, but they're also durable and practical.
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />

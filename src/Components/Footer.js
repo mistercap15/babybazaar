@@ -3,6 +3,7 @@ import { BsTwitter } from "react-icons/bs";
 import { BsYoutube } from "react-icons/bs";
 import { FaFacebookF } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
+import { FaLocationArrow } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -30,6 +31,8 @@ const Footer = () => {
         <div className="footer-section-columns">
           <span>+91-9033993640</span>
           <span>babybazaar@gmail.com</span>
+          <span><FaLocationArrow/>&nbsp;&nbsp;&nbsp;&nbsp; 1,Pride Corporate,Kalawad Road,Rajkot</span>
+          <span><FaLocationArrow/>&nbsp;&nbsp;&nbsp;&nbsp; 705,TwinStar,150 ft Ring Road,Rajkot</span>
         </div>
         <div className="footer-section-columns">
           <span>Terms & Conditions</span>
